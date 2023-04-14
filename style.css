@@ -16,23 +16,24 @@ main{
 border-radius: 100%;
 border: 3px solid #fdfdfdc5;
 width: 100px;
-margin: 2px;
+margin: 10px;
 }
 
 .nick{
 font-family: 'Courier New', Courier, monospace;
+margin: auto;
 font-size: 20px;
 border: solid #0084ffb7 1px;
 border-radius: 5px;
-background-color: #07070800;
 color: #ffffff;
-padding: 5px;
+width: 293px;
+padding: 4px;
 box-shadow: 1px 1px 20px 3px #1f00cc;
 }
 
 button{
 font-family: Arial, Helvetica,sans-serif;
-font-size: 15px;
+font-size: 18px;
 border: solid #000000 1px;
 width: 300px;
 border-radius: 4px;
@@ -46,8 +47,9 @@ width: 20px;
 float: left;
 }
 
-button:active{
-    background-color: #1236ff1e;
+button:hover{
+    background-color: #3d3d3d;
     color: #ffffff;
+    padding: 10px;
 }
 
