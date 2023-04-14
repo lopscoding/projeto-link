@@ -6,7 +6,6 @@ background-image: linear-gradient( #0d033b, #082c4e, #1a0738);
 }
 
 main{
-    background-color: #0000005d;
     width: 330px;
     height: 679px;
     margin: auto;
@@ -25,7 +24,7 @@ font-family: 'Courier New', Courier, monospace;
 font-size: 20px;
 border: solid #0084ffb7 1px;
 border-radius: 5px;
-background-color: #07070838;
+background-color: #07070800;
 color: #ffffff;
 padding: 5px;
 box-shadow: 1px 1px 20px 3px #1f00cc;
